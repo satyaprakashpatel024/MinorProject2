@@ -23,7 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 
-git init
-git add README.md
-git commit -m "first commit"
+/****/
+
+git remote add origin https://github.com/satyaprakashpatel024/MinorProject2.git
 git branch -M main
+git push -u origin main
