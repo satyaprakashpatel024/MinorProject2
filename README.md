@@ -1,4 +1,4 @@
-![Screenshot 2024-05-28 172437](https://github.com/satyaprakashpatel024/MinorProject2/assets/112648996/0d7fc2eb-36bd-4430-94a9-0f248af7af02)# Getting Started with Create React App
+Getting Started with application : 
 
 client side : 
 
