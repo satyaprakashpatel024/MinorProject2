@@ -25,6 +25,8 @@ function SignIn() {
 				withCredentials: true,
 				data: credentials,
 			});
+			console.log(response.data.data,'aaaaaaaaaaaaa');
+			localStorage.setItem('data',response.data.data);
 			if (response.data.success) {
 				await Notify();
 				navigate("/signin/attempt");

@@ -19,3 +19,5 @@ cmd : npm install
 
 step: 5 start the server 
 cmd : nodemon start
+
+# ui interface  screenshot : 
