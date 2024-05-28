@@ -17,7 +17,7 @@ cmd: npm start
 # Step 4: navigate to root of backend and install the dependency 
 cmd : npm install
 
-#step: 5 start the server 
+# step: 5 start the server 
 cmd : nodemon start
 
 # ui interface  screenshot : 
